@@ -1,3 +1,5 @@
 Olá meu nome é gustavo e eu estou estudando git.
 
 Ola eu sou uma nova linha.
+
+Essa é uma linha para me ajudar a entender o conceito de branch
